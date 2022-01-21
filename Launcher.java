@@ -1,5 +1,4 @@
 import javax.swing.*;
-import java.awt.*;
 
 public class Launcher {
 
@@ -10,6 +9,7 @@ public class Launcher {
 		f.setContentPane(new Program());
 		f.setTitle("Rat Manager v3.8.5");
 		f.setVisible(true);
+		f.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
 	}
 
