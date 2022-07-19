@@ -1,5 +1,5 @@
 # Rat Manager
-A rat population simulator demonstrating Action Listener, Timer, Swing graphics and objects in Java. This program was created as a project for my AP Computer Science A class. 
+A rat population simulator with functions like breed, feed, nuke, zombify, and more. Demonstrates use of Action Listener, graphics, objects, and JavaFX. This program was created as a project for my AP Computer Science A class. 
 
 ## Rat Types
 
